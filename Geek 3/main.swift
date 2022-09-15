@@ -7,6 +7,13 @@
 
 import Foundation
 
+//func plus(num1: int, num2: Int, num3: Int , num 4: Int, num5: Int) {
+//print (num1 + num2 + num3 + num4 + num5)
+//}
+
+//print ("vvedite chislo")
+//func squareNum(Num: Int) -> Double {
+
 // == -> ravno li
 //> bolshe li
 //< menshe li
@@ -74,3 +81,8 @@ newShowSeason(num: 5)
 newShowSeason(num: 2)
 newShowSeason(num: 4)
 
+func addornet(num: Int , num2: Int ,num3: Int , num4: Int , num5: Int )->Int{
+    switch num{
+    case 1: print("num)
+                  case
+    
